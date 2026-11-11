@@ -185,19 +185,19 @@ Explore my repositories to follow my practical learning journey.
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Animesh k jaiswal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animesh k jaiswal&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Animesh-k-jaiswal&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animesh-k-jaiswal&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Animesh k jaiswal&theme=tokyonight&hide_border=true" />
+  <img width="95%" src="https://streak-stats.demolab.com?user=Animesh-k-jaiswal&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Animesh k jaiswal&theme=tokyo-night&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Animesh-k-jaiswal&theme=tokyo-night&hide_border=true" />
 </p>
 
----
 
 ## 🧠 Engineering Mindset
 
