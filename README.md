@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ani1205&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Ani1205?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Ani1205?label=Total%20Stars&style=for-the-badge&color=yellow" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Animesh k jaiswal&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Animesh k jaiswal?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Animesh k jaiswal?label=Total%20Stars&style=for-the-badge&color=yellow" alt="Stars"/>
 </p>
 
 ---
@@ -185,16 +185,16 @@ Explore my repositories to follow my practical learning journey.
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ani1205&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ani1205&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Animesh k jaiswal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animesh k jaiswal&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ani1205&theme=tokyonight&hide_border=true" />
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Animesh k jaiswal&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ani1205&theme=tokyo-night&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Animesh k jaiswal&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -230,7 +230,7 @@ print(engineer.mindset())
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/Ani1205">
+  <a href="https://github.com/Animesh k jaiswal">
     <img src="https://img.shields.io/badge/GitHub-Animesh%20Jaiswal-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/">
